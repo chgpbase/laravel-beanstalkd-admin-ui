@@ -9,8 +9,8 @@
         }
     ],
     "require": {
-        "php": "^7.4 || ^8.0",
-        "laravel/framework": "^8.40.0",
+        "php": "^7.4 || ^8.0 || ^8.2",
+        "laravel/framework": "^8.40.0 || ^9.0 || ^10.0",
         "pda/pheanstalk": "^4.0"
     },
     "require-dev": {
